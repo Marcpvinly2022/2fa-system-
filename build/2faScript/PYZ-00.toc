@@ -1,0 +1,333 @@
+('C:\\Users\\MARC PVINLY\\Desktop\\2FA SYSTEM\\build\\2faScript\\PYZ-00.pyz',
+ [('_compat_pickle',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\hmac.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.colorchooser',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\colorchooser.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\MARC '
+   'PVINLY\\AppData\\Local\\Programs\\Python\\Python37\\lib\\zipfile.py',
+   'PYMODULE')])
